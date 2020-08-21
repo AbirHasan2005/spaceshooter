@@ -2,7 +2,6 @@
 Python3 based 2D Space Shoot Game. Coded by @AbirHasan2005.
 
 ## Please Check [Releases](https://github.com/AbirHasan2005/spaceshooter/releases):
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/AbirHasan2005/spaceshooter)](https://github.com/AbirHasan2005/spaceshooter/releases)
 
 ### There are ZIP files of the Game in [Releases](https://github.com/AbirHasan2005/spaceshooter/releases). Must see [releases](https://github.com/AbirHasan2005/spaceshooter/releases) first.
 
